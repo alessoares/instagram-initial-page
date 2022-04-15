@@ -1,1 +1,1 @@
-### Instagram - Initial Page using HTML and CSS
+## Instagram - Initial Page using HTML and CSS
